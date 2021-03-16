@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+@import "bootstrap";
+@import 'font-awesome-sprockets';
+@import 'font-awesome';
+
+.Menu{
+  padding: 0 20px;
+  background-color: lightgray;
+  font-size: 1.2em;
+}
